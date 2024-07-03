@@ -80,11 +80,11 @@
 
         layer_DotA_2 {
             bindings = <
-        &trans  &trans  &trans  &trans  &trans  &trans                        &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-        &trans  &trans  &trans  &trans  &trans  &trans                        &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
- &kp BACKSPACE  &trans  &trans  &trans  &trans  &trans                        &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
-        &trans  &trans  &trans  &trans  &trans  &trans                                        &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
-        &trans  &trans  &trans  &trans  &trans                    &mt LALT BACKSPACE  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
+        &trans  &trans  &trans  &trans  &trans  &trans              &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+        &trans  &trans  &trans  &trans  &trans  &trans              &trans                                                  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+ &kp BACKSPACE  &trans  &trans  &trans  &trans  &trans              &trans  &trans  &trans                  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans
+        &trans  &trans  &trans  &trans  &trans  &trans                              &trans                  &trans                  &trans  &trans  &trans  &trans  &trans  &trans
+        &trans  &trans  &trans  &trans  &trans                    &kp LALT  &trans  &trans                  &trans  &trans  &trans          &trans  &trans  &trans  &trans  &trans
             >;
         };
 
